@@ -8,6 +8,7 @@ public class SpyNumber {
 
 	public static void main(String[] args) {
 		int i = 0, rem, sum, mul, num;
+		// Checking for spy number under 1000.
 		while(i<1000) {
 			num=i;
 			rem=0;
